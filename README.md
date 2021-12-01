@@ -13,7 +13,7 @@ yarn create next-app my-arcane-wiki -e https://github.com/colbyfayock/demo-arcan
 - Navigate to your new project
 
 ```
-cd my-online-store
+cd my-arcane-wiki
 ```
 
 - Start a local development server
