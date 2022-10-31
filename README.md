@@ -11,7 +11,7 @@ In it he explains how to use this repo to deploy to Netlify and make use of a Ne
 - Install dependencies
 
 ```
-npm install
+yan install
 ```
 
 - Start a local development server
