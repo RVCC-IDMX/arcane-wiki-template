@@ -1,5 +1,7 @@
 # Arcane Wiki Demo
 
+All this comes from a tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/) by [Colby Fayock](https://www.colbyfayock.com/)
+
 ## Getting Started
 
 - Install dependencies
