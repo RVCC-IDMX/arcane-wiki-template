@@ -23,7 +23,7 @@ npm run dev
 ## Creating a Cloudinary Preset for Upload
 
 1. Follow the tutorial to make a Preset at [Create Transformation Presets in Cloudinary's DAM System](https://youtu.be/F7pA-jYs6ew).
-1. You need not create the exact one from the tutorial. I suggest you create a Preset that crops the image to a 400px wide image, mode scale, auto format and auto quality.
+1. You need not create the exact one from the tutorial. I suggest you create a Preset that crops the image to a 400px wide image, crop mode scale, auto format and auto quality.
 
 <img width="458" alt="Cloudinary edit menu" src="https://user-images.githubusercontent.com/13385801/199068076-1a5393bd-4889-41c2-b4e5-9e65c0516d48.png">
 
