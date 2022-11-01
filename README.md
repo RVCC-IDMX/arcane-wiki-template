@@ -71,7 +71,7 @@ Automatically optimize your Netlify site images and deliver them in modern forma
 
 ## Add the netlify.toml file to your repository
 
-1. Create a netlify.tom file in the root of your repo loading the netlify-plugin-cloudinary plugin.
+1. Create a netlify.toml file in the root of your repo loading the netlify-plugin-cloudinary plugin.
 
 ```
 [[plugins]]
