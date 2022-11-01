@@ -60,10 +60,10 @@ npm run dev
 1. Click the `Integrations` menu button.
 1. Search for Cloudinary.
 1. Click the `Add build plugin` button for the selection.
-```
-Cloudinary
-Automatically optimize your Netlify site images and deliver them in modern formats with Cloudinary.
-```
+
+>Cloudinary
+>Automatically optimize your Netlify site images and deliver them in modern formats with Cloudinary.
+
 5. Choose the site you want to add the plugin to.
 6. If successful, the plugin will appear on the site's plugin page
 
