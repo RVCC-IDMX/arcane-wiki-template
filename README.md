@@ -28,7 +28,12 @@ npm run dev
 <img width="458" alt="Cloudinary edit menu" src="https://user-images.githubusercontent.com/13385801/199068076-1a5393bd-4889-41c2-b4e5-9e65c0516d48.png">
 
 
-3. Save the preset giving it the name `arcane`.
+3. Once you know how to create a preset, you'll have to make one in the Settings -> Upload panel.
+
+4. Edit Upload Manipulations -> Incoming Transformation: and set the transformations to c_scale,q_auto,w_400
+
+
+4. Save the preset giving it the name `arcane`.
 
 ---
 
