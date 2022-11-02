@@ -32,7 +32,7 @@ npm run dev
 <img width="458" alt="Cloudinary edit menu" src="https://user-images.githubusercontent.com/13385801/199068076-1a5393bd-4889-41c2-b4e5-9e65c0516d48.png">
 
 
-3. Once you know how to create a preset, you'll have to make one in the Settings -> Upload panel. Settings is the gear icon <img width="20" alt="Screenshot 2022-11-01 at 11 39 54 PM" src="https://user-images.githubusercontent.com/13385801/199389999-5dd9d147-e863-4e5e-83fa-85c5865b43fe.png"> in the top-right os the screen.
+3. Once you know how to create a preset, you'll have to make one in the Settings -> Upload panel. Settings is the gear icon <img width="20" alt="Screenshot 2022-11-01 at 11 39 54 PM" src="https://user-images.githubusercontent.com/13385801/199389999-5dd9d147-e863-4e5e-83fa-85c5865b43fe.png"> in the top-right os the screen. [Managing upload presets for developers](https://cloudinary.com/documentation/upload_presets)
 
 4. Edit Upload Manipulations -> Incoming Transformation: and set the transformations to c_scale,q_auto,w_400
 
