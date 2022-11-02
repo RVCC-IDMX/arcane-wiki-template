@@ -91,6 +91,7 @@ npm run dev
 2. Make sure the cloudName matches your Cloudinary Cloudname.
 3. Push the changes to GitHub.
 4. Monitor the Netlify build log looking for the Cloudinary plugin.
+5. If something goes wrong and you want to build again, delete the created folder from Cloudinary before your next push.
 
 ---
 
