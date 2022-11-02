@@ -1,10 +1,14 @@
 # Arcane Wiki Demo
 
-This forked repository comes from a tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/) by [Colby Fayock](https://www.colbyfayock.com/) and its YouTube video [Automatic Image Optimization on Netlify with the Cloudinary Build Plugin](https://youtu.be/0YOnthePzxI)
+This forked repository comes from a tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/) by [Colby Fayock](https://www.colbyfayock.com/). 
 
-In it he explains how to use this repo to deploy to Netlify and make use of a Netlify build plugin titled Cloudinary 
+Its YouTube video is here: [Automatic Image Optimization on Netlify with the Cloudinary Build Plugin](https://youtu.be/0YOnthePzxI)
 
-**Thanks Colby**
+In it he explains how to use this repo to deploy to Netlify and make use of a Netlify build plugin titled Cloudinary. 
+
+Big Thanks Colby for writing the plugin and making the tutorial
+
+**We include an additional feature to the project by creating an upload preset in Cloudinary that resizes the images to a smaller size so that the site's performance is improved.**
 
 ## Getting Started Locally
 
