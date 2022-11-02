@@ -15,7 +15,7 @@ Big Thanks Colby for writing the plugin and making the tutorial.
 - Install dependencies
 
 ```
-yan install
+yarn install
 ```
 
 - Start a local development server
