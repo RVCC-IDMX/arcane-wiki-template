@@ -6,7 +6,7 @@ Its YouTube video is here: [Automatic Image Optimization on Netlify with the Clo
 
 In it he explains how to use this repo to deploy to Netlify and make use of a Netlify build plugin titled Cloudinary. 
 
-Big Thanks Colby for writing the plugin and making the tutorial
+Big Thanks Colby for writing the plugin and making the tutorial.
 
 **We include an additional feature to the project by creating an upload preset in Cloudinary that resizes the images to a smaller size so that the site's performance is improved.**
 
@@ -24,7 +24,7 @@ yan install
 npm run dev
 ```
 
-## Creating a Cloudinary Preset for Upload
+## Creating a Signed Cloudinary Preset for Upload
 
 1. Follow the tutorial to make a Preset at [Create Transformation Presets in Cloudinary's DAM System](https://youtu.be/F7pA-jYs6ew).
 1. You need not create the exact one from the tutorial. I suggest you create a Preset that crops the image to a 400px wide image, crop mode scale, and auto quality.
@@ -34,10 +34,10 @@ npm run dev
 
 3. Once you know how to create a preset, you'll have to make one in the Settings -> Upload panel. Settings is the gear icon <img width="20" alt="Screenshot 2022-11-01 at 11 39 54 PM" src="https://user-images.githubusercontent.com/13385801/199389999-5dd9d147-e863-4e5e-83fa-85c5865b43fe.png"> in the top-right os the screen. [Managing upload presets for developers](https://cloudinary.com/documentation/upload_presets)
 
-4. Edit Upload Manipulations -> Incoming Transformation: and set the transformations to c_scale,q_auto,w_400
+4. Edit Upload Manipulations -> Incoming Transformation: set it to `signed` and set the transformations to `c_scale,q_auto,w_400`
 
 
-4. Save the preset giving it the name `arcane`.
+4. Save the upload preset giving it the name `arcane`.
 
 ---
 
