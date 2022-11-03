@@ -1,5 +1,8 @@
 # Arcane Wiki Demo With Image Resize
 
+![fleur-dQf7RZhMOJU-unsplash-1920](https://user-images.githubusercontent.com/13385801/199838443-8c614139-eea1-428f-9e84-46cee6cf5a20.jpg)
+
+
 You'll find the code for this demo in the [arcane-wiki-demo](https://github.com/RVCC-IDMX/arcane-wiki-template) repository.
 
 This project originall came from a tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/) by [Colby Fayock](https://www.colbyfayock.com/).
@@ -126,3 +129,7 @@ There are multiple indications that the plugin deployed successfully.
 1. The Netlify deploy log shows successful plugin actions.
 1. There is a new folder in your Cloudinary with the files from this repository.
 1. The images in the site are served from Cloudinary.
+
+---
+
+Photo by <a href="https://unsplash.com/@yer_a_wizard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fleur</a> on <a href="https://unsplash.com/s/photos/tools?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
