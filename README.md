@@ -3,9 +3,10 @@
 ![fleur-dQf7RZhMOJU-unsplash-1920](https://user-images.githubusercontent.com/13385801/199838443-8c614139-eea1-428f-9e84-46cee6cf5a20.jpg)
 
 
-You'll find the code for this demo in the [arcane-wiki-demo](https://github.com/RVCC-IDMX/arcane-wiki-template) repository.
 
-This project originall came from a tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/) by [Colby Fayock](https://www.colbyfayock.com/).
+You'll find the code for this demo in the [arcane-wiki-template](https://github.com/RVCC-IDMX/arcane-wiki-template) repository.
+
+This project originally came from a tutorial [How to Optimize Images on Netlify with the Cloudinary Build Plugin](https://spacejelly.dev/posts/how-to-optimize-images-on-netlify-with-the-cloudinary-build-plugin/) by [Colby Fayock](https://www.colbyfayock.com/).
 
 His YouTube video is here: [Automatic Image Optimization on Netlify with the Cloudinary Build Plugin](https://youtu.be/0YOnthePzxI)
 
@@ -122,7 +123,7 @@ Cloudinary also has two types of presets: upload and transformation. Upload pres
 
 ---
 
-## Checking for Successul Plugin Installation and Deploy
+## Checking for Successful Plugin Installation and Deploy
 
 There are multiple indications that the plugin deployed successfully.
 
@@ -131,5 +132,4 @@ There are multiple indications that the plugin deployed successfully.
 1. The images in the site are served from Cloudinary.
 
 ---
-
 Photo by <a href="https://unsplash.com/@yer_a_wizard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fleur</a> on <a href="https://unsplash.com/s/photos/tools?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
