@@ -23,7 +23,7 @@ Big Thanks goes out to Colby for writing the plugin and making the tutorial.
 - Install dependencies
 
 ```bash
-yarn install
+npm install
 ```
 
 - Start a local development server
